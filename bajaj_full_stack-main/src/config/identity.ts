@@ -1,5 +1,5 @@
 export const IDENTITY = {
-  user_id: "kashish_20112005",
-  email_id: "kashish0417.be23@chitkara.edu.in",
-  college_roll_number: "2310990417"
+  user_id: "harushi_2310990520",
+  email_id: "harushi0520.be23@chitkara.edu.in",
+  college_roll_number: "2310990520"
 };
